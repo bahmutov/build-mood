@@ -1,0 +1,27 @@
+{
+  "name": "build-mood",
+  "version": "0.0.1",
+  "description": "Monitor and signal the current build state using sounds",
+  "author": "Gleb Bahmutov <gleb.bahmutov@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bahmutov/build-mood.git"
+  },
+  "keywords": [
+    "js", "javascript",
+    "build", "sound", "audio"
+  ],
+  "dependencies": {
+  },
+  "devDependencies" :{
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts" : { 
+  },
+  "license": "MIT",
+  "preferGlobal": "true",
+  "main": "./index.js",
+  "bin": "./index.js"
+}
